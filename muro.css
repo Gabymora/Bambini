@@ -81,15 +81,15 @@ a{
 
 /*.............................................SECCION MURO........................................*/
 .bgretos{
-	background-image: url(../imgmuro/reto_semana.jpg);
+	background-image: url("../imgmuro/reto_semana.jpg");
 	background-size: 101%;
 	background-repeat: no-repeat;
 	padding: 10%;
 }
 
 .bgmu{		/* Propiedades de la imagen sin reto*/
-	background-image: url(imgmuro/sinreto.png);
-	background-size: 100%;
+	background-image: url("imgmuro/sinreto.png");
+	background-size: 80%;
 	background-repeat: no-repeat;
 	padding: 16%;
 	margin-top: 2%;
@@ -305,7 +305,7 @@ cursor: pointer;
 footer {
 	font-family: Josefin Sans;
 }
-.HHH {
+.hhh {
 	margin-top: -65px;
 }
 .logomu {
